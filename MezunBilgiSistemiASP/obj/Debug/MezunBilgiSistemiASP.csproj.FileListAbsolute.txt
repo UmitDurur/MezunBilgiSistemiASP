@@ -1,0 +1,74 @@
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\images\iste_arma.png
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\ApplicationInsights.config
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\csc.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\vbc.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\MezunBilgiSistemiASP.dll.config
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\MezunBilgiSistemiASP.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\MezunBilgiSistemiASP.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.Web.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\MySql.Data.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Google.Protobuf.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.Web.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\bin\MySql.Data.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\obj\Debug\MezunBilgiSistemiASP.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\obj\Debug\MezunBilgiSistemiASP.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP - Kopya\MezunBilgiSistemiASP\obj\Debug\MezunBilgiSistemiASP.csprojResolveAssemblyReference.cache
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\images\iste_arma.png
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\ApplicationInsights.config
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\csc.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\vbc.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\MezunBilgiSistemiASP.dll.config
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\MezunBilgiSistemiASP.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\MezunBilgiSistemiASP.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.Web.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\MySql.Data.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Google.Protobuf.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.Web.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\bin\MySql.Data.xml
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\obj\Debug\MezunBilgiSistemiASP.dll
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\obj\Debug\MezunBilgiSistemiASP.pdb
+C:\Users\Ümit DURUR\Documents\Visual Studio 2015\Projects\MezunBilgiSistemiASP\MezunBilgiSistemiASP\obj\Debug\MezunBilgiSistemiASP.csprojResolveAssemblyReference.cache
